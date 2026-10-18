@@ -1,4 +1,4 @@
-## AO Github Code of Conduct.
+## AO Code of Conduct.
 
 Welcome to AO's repositories. Below is our code of conduct, which applies to our repos as well as any communication initiated in the context of these spaces. This code of conduct must be followed by everyone contributing to the AO project, regardless of affiliation or position.
 
@@ -34,4 +34,5 @@ For any inquiries or reports, please contact the AO Maintainer Team via [Tickets
 
 ### **Acknowldegements**
 This Code of Conduct is under the Creative Commons Zero (CC0) license for re-use.
-This Code of Conduct is based on Chromium code of conduct.
+
+This Code of Conduct is based on the Chromium code of conduct.
