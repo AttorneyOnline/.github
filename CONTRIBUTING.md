@@ -1,16 +1,16 @@
 ## How to contribute to the AO Github.
 
 Welcome to AO's repositories. We are always looking for new developers and hope to make the experience as smooth as possible, 
-thank you for considering a contribution to the project. You can follow updates on development both on the Github and in the Discord.
+thank you for considering a contribution to the project. You can follow along both on the Github and in the [development](https://discord.com/channels/278529040497770496/323377366997008394) channel.
 
 #### **Base guidelines**
 * This project is open to anyone who wishes to contribuite for Windows (10/11) and Linux and MacOS. In order to test key features of this program, it is required to have either custom-made assets ready or to obtain them from the official AO discord, found in the #links-downloads channel. Refer to #ms-hosting for hosting information.
 
-* The AO ORG concerns the official client/server and masterserver. If your contribution introduces large changes or may break existing functionality and requires testing, consider checking out [**AO CHAOS**](https://github.com/AttorneyOnlineChaos). An expiremental branch where most breaking changes are tested.
+* The AO ORG concerns the official client/server and masterserver. If your contribution introduces large changes or may break existing functionality and requires testing, consider checking out [**AO CHAOS**](https://github.com/AttorneyOnlineChaos).
 
 #### **Issues**
 
-Issues are used for bug-fixes as well as potential feature conversions and requests.
+Issues are used for bug-fixes as well as potential feature conversions and requests. If you are a first-time contributor, consider checking out issues labelled "Good First Issue". Contact a maintainer if you wish to be assigned one instead.
 
 * Open a new GitHub issue following the issue template.
 
